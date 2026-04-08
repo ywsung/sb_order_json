@@ -1,0 +1,19 @@
+{
+  "orderItems": [
+    {
+      "category": "에스프레소/커피",
+      "name": "카페 아메리카노",
+      "temp": "HOT",
+      "size": "Tall",
+      "quantity": 2
+    },
+    {
+      "category": "티 음료",
+      "name": "히비스커스 블렌드 티",
+      "temp": "ICED",
+      "size": "Venti",
+      "quantity": 1
+    }
+  ],
+  "confirmOrder": true
+}
