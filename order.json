@@ -13,20 +13,6 @@
       "temp": "ICED",
       "size": "Tall",
       "quantity": 3
-    },
-    {
-      "category": "에스프레소/커피",
-      "name": "슈크림 라떼",
-      "temp": "ICED",
-      "size": "Tall",
-      "quantity": 1
-    },
-    {
-      "category": "티 음료",
-      "name": "스타벅스 클래식 밀크 티",
-      "temp": "HOT",
-      "size": "Tall",
-      "quantity": 1
     }
   ],
   "confirmOrder": true
