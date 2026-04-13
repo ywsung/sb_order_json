@@ -1,13 +1,6 @@
 {
   "orderItems": [
     {
-      "category": "오늘의 커피 (브루드 커피)",
-      "name": "브루드 커피",
-      "temp": "HOT",
-      "size": "Tall",
-      "quantity": 1
-    },
-    {
       "category": "티 음료",
       "name": "베이스볼 매실 그린 티",
       "temp": "ICED",
